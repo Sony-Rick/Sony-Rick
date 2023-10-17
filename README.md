@@ -1,8 +1,6 @@
 <div>
     <h1>Eai, Eu sou Erickssom Melgaço </h1>
-    <h3>Bem vindo ao quartinho de um programador iniciante, fique a vontade </h3>
-    <p>  Me chamo Erickssom, tenho 23 anos e estou iniciando meus estudos em programação. Sigo na busca de um caminho pra trilhar, dentre tantos comecei recentemente a estudar programação. Sempre fui apaixonado por tecnologia mas nunca me foquei em apenas uma coisa, decidi então que talvez seja a hora de ver como as coisas realmente funcionam e fazer parte desse processo. Sou muito curioso por várias coisas, mas minhas paixões são jogos eletrônicos e todo tipo de arte. Esse sou eu, seja bem vindo a essa nova parte de mim.
-
+    <h3> Me chamo Erickssom, tenho 23 anos e estou iniciando meus estudos em programação. Sigo na busca de entender minha vocação, dentre tantos caminhos e depois de tantos outros caminhos, comecei a estudar programação. Sempre fui apaixonado por tecnologia mas nunca me foquei em apenas uma coisa, decidi então, como um bom curioso, que talvez seja a hora de ver como as coisas realmente funcionam e fazer parte desse processo. Sou muito interessado por várias coisas, mas minhas paixões são jogos eletronicos e todo tipo de arte. Esse sou eu, seja bem vindo a essa nova parte de mim.
   <div>
     <h2>Me encontre aqui
     </h2>
