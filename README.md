@@ -8,7 +8,7 @@
 </div>
   </div>
 O que tenho estudado ultimamente:
-- 🌱 Primeiros estudos de Programação: Logica de Programação Dio<br>
+- 🌱 Primeiros estudos de Programação: Estruturando WebApi e Sql<br>
 - 🤔 Estou procurando ajuda com tudo,me passa sua visão sobre sua linguagem<br>
 - 💬 Me pergunte sobre:Como vai os estudos<br>
 - 😄 Pronouns:Ele/Dele<br>
